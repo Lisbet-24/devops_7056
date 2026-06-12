@@ -2,33 +2,35 @@
 
 ## Descripción
 
-Este repositorio contiene el desarrollo de actividades, prácticas y evidencias relacionadas con la asignatura de DevOps.  
-El objetivo principal es aplicar conceptos de integración, control de versiones, automatización y buenas prácticas en el desarrollo de software.
+Este repositorio contiene las actividades, prácticas y evidencias desarrolladas en la asignatura de DevOps.
 
-## Objetivo del repositorio
+El propósito principal es aplicar el uso de GitHub como herramienta de control de versiones, documentación y organización del trabajo realizado durante el curso.
 
-Organizar y documentar los trabajos realizados durante el curso, utilizando GitHub como herramienta de control de versiones y colaboración.
+## Objetivo
+
+Utilizar Git y GitHub para gestionar archivos, registrar cambios y mantener un historial ordenado del desarrollo de las actividades académicas.
 
 ## Contenido
 
-En este repositorio se podrán encontrar:
+En este repositorio se incluirán:
 
-- Archivos del proyecto.
-- Evidencias de actividades realizadas.
+- Actividades realizadas en clase.
+- Evidencias prácticas.
 - Documentación del proceso.
-- Prácticas relacionadas con DevOps.
-- Configuraciones o scripts utilizados durante el desarrollo.
+- Archivos relacionados con DevOps.
+- Pruebas y configuraciones realizadas.
 
-## Tecnologías utilizadas
+## Herramientas utilizadas
 
 - Git
 - GitHub
 - Visual Studio Code
-- Herramientas relacionadas con DevOps
+- Navegador web
 
-## Cómo usar este repositorio
+## Autor
 
-Para clonar este repositorio en tu computadora, ejecuta el siguiente comando:
+**Lisbet-24**
 
-```bash
-git clone https://github.com/Lisbet-24/devops_7056.git
+## Estado del repositorio
+
+En desarrollo.
